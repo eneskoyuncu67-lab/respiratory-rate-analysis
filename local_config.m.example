@@ -1,0 +1,6 @@
+% Copy this file to local_config.m (which is gitignored) and fill in your
+% own paths to override the generic defaults, without ever needing to
+% edit or commit a path that's specific to your machine.
+BREATHMETRICS_ROOT = 'C:\path\to\breathmetrics-master';
+MAT_DIR = 'C:\path\to\your\mat\export\folder';
+OUT_DIR = 'C:\path\to\your\output\folder';

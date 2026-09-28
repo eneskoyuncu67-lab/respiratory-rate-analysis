@@ -1,0 +1,8 @@
+mne
+neurokit2
+numpy
+pandas
+scipy
+matplotlib
+fpdf2
+Pillow

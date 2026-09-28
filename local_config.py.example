@@ -1,0 +1,7 @@
+"""
+Copy this file to local_config.py (which is gitignored) and fill in your
+own paths to override the generic defaults in config.py, without ever
+needing to edit or commit a path that's specific to your machine.
+"""
+EDF_DIR = r'C:\path\to\your\edf\recordings'
+OUT_DIR = r'C:\path\to\your\output\folder'
