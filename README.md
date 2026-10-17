@@ -108,8 +108,8 @@ Portions of this pipeline (refactoring for portability, documentation, and parts
 ## References
 
 - Carreiras, C., Alves, A. P., Lourenco, A., Canento, F., Silva, H., Fred, A., et al. (2015). BioSPPy - Biosignal Processing in Python. https://github.com/PIA-Group/BioSPPy/
-- Gramfort, A., Luessi, M., Larson, E., Engemann, D. A., Strohmeier, D., Brodbeck, C., et al. (2013). MEG and EEG data analysis with MNE-Python. *Frontiers in Neuroscience*, 7, 267.
-- Khodadad, D., Nordebo, S., Muller, B., Waldmann, A., Yerworth, R., Becher, T., et al. (2018). Optimized breath detection algorithm in electrical impedance tomography. *Physiological Measurement*, 39(9), 094001.
-- Rückert-Eheberg, I.-M., Steger, A., Muller, A., Linkohr, B., et al. (2025). Respiratory rate and its associations with disease and lifestyle factors in the general population - results from the KORA-FF4 study. *PLOS ONE*, 20(3), e0318502.
-- Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., et al. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. *Behavior Research Methods*, 53(4), 1689-1696.
+- Gramfort, A., Luessi, M., Larson, E., Engemann, D. A., Strohmeier, D., Brodbeck, C., et al. (2013). MEG and EEG data analysis with MNE-Python. *Frontiers in Neuroscience*, 7, 267. https://doi.org/10.3389/fnins.2013.00267
+- Khodadad, D., Nordebo, S., Muller, B., Waldmann, A., Yerworth, R., Becher, T., et al. (2018). Optimized breath detection algorithm in electrical impedance tomography. *Physiological Measurement*, 39(9), 094001. https://doi.org/10.1088/1361-6579/aad7e6
+- Rückert-Eheberg, I.-M., Steger, A., Muller, A., Linkohr, B., et al. (2025). Respiratory rate and its associations with disease and lifestyle factors in the general population - results from the KORA-FF4 study. *PLOS ONE*, 20(3), e0318502. https://doi.org/10.1371/journal.pone.0318502
+- Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., et al. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. *Behavior Research Methods*, 53(4), 1689-1696. https://doi.org/10.3758/s13428-020-01516-y 
 - Welch, P. D. (1967). The use of fast Fourier transform for the estimation of power spectra: A method based on time averaging over short, modified periodograms. *IEEE Transactions on Audio and Electroacoustics*, 15(2), 70-73.
