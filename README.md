@@ -120,7 +120,6 @@ Parts of this pipeline were developed with AI assistance from Claude (Anthropic)
 > Anthropic. (2026). *Claude (Sonnet 5)* [Large language model]. https://www.anthropic.com/claude
 
 ## References
-## References
 
 - Carreiras, C., Alves, A. P., Lourenco, A., Canento, F., Silva, H., Fred, A., et al. (2015). BioSPPy - Biosignal Processing in Python. https://github.com/PIA-Group/BioSPPy/
 - Gramfort, A., Luessi, M., Larson, E., Engemann, D. A., Strohmeier, D., Brodbeck, C., et al. (2013). MEG and EEG data analysis with MNE-Python. *Frontiers in Neuroscience*, 7, 267. https://doi.org/10.3389/fnins.2013.00267
